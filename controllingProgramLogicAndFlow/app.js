@@ -155,6 +155,160 @@ else {
   console.log("Please guess a number between 1 and 10");
 }
 
+// Or 
+// ||
+// only one needs to be true for the whole thing to be true
+true || false // returns true
+1 !== 1 || 10 === 10 // returns true
+10/2 === 5 || null // returns true
+0 || undefined // returns false
+
+// Example 1
+let age = 10;
+
+if (age < 6 || age >= 65) {
+  console.log("YOU GET IN FOR FREE");
+}
+else {
+  console.log("YOU MUST PAYYYYY!!");
+}
+
+// Example 2
+let color = "purple";
+if (color === 'purple' || color === 'Lilac' || color === 'violet') {
+  console.log('GREAT CHOICE!');
+}
+
+
+//Not 
+// !
+!null // true
+! (0 === 0) // false
+!(3 <= 4) // false
+
+// Example 1
+let loggedInUsers;
+
+if (!loggedInUsers) {
+  console.log('GET OUT OF HERE!');
+}
+
+let flavor = 'watermelon';
+
+if (flavor !== 'grape' && flavor !== 'cherry') {
+  console.log('WE DONT HAVE THAT FLAVOR!');
+}
+
+
+//Operational Precedence 
+
+//what does this evaluate too?
+let x = 7
+x == 7 || x === 3 && x > 10; //returns true because the AND operator takes precedence. NOT has higher precedence than AND which has higher precedence than OR
+
+// The Switch Statement
+let day = 4;
+
+// if (day === 1) {
+//   console.log("MONDAY");
+// }
+// else if (day === 2) {
+//   console.log("TUESDAY");
+// }
+// else if (day === 3) {
+//   console.log("WEDNESDAY");
+// }
+// else if (day === 4) {
+//   console.log("THURSSDAY");
+// }
+// else if (day === 5) {
+//   console.log("FRIDAY");
+// }
+// else if (day === 6) {
+//   console.log("SATURDAY");
+// }
+// else if (day === 7) {
+//   console.log("SUNDAY");
+// }
+// else {
+//   console.log('INVALID DAY');
+// }
+
+// A better way to do this is to use a switch statement
+
+switch(day) {
+  case 1: 
+    console.log('MONDAY');
+    break;
+  case 2: 
+    console.log('TUESDAY')
+    break;
+  case 3: 
+    console.log('WEDNESDAY')
+    break;
+  case 4: 
+    console.log('THURSDAY')
+    break;
+  case 5: 
+    console.log('FRIDAY');
+    break;
+  case 6: 
+    console.log('SATURDAY')
+    break;
+  case 7: 
+    console.log('SUNDAY');
+    break;
+  default:
+    console.log('INVALID DAY')
+}
+
+let emoji = 'sad face';
+
+switch (emoji) {
+  case 'sad face':
+  case 'happy face':
+    console.log('yellow');  
+    break;
+  case 'eggplant':
+    console.log('purple');
+    break;
+  case 'heart':
+  case 'lips':
+    console.log('red')
+  break;
+}
+
+
+//Ternary Operator
+// there are three pieces and it allows a more simplistic if or else (yes or no) statement
+// Format is condition ? expIfTrue: expIfFalse
+let numb =7;
+
+// if (numb === 7) {
+//   console.log('Lucky!');
+// }
+// else {
+//   console.log('BAD!');
+// }
+
+// rewrite as:
+numb === 7 ? console.log('Lucky!') : console.log('BAD!');
+
+let status = 'offLine';
+
+// let color;
+// if (status === 'offline') {
+//   colors = 'red';
+// }
+// else {
+//   colors = 'green';
+// }
+
+let colors = status === 'offLine' ? 'red' : 'green'; // returns 'red'
+
+
+
+
 
 
 
