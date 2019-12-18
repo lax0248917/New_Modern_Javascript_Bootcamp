@@ -21,5 +21,19 @@ shoppingList[8]; //returns "undefined"
 shoppingList.length; //returns 3
 
 //Modifying Arrays
+//change items in an array
+let shopList = ['chedder cheese', '2% milk'];
+shopList[1] = 'whole milk';
+shopList // will return ['chedder cheese', 'whole milk']
+//Can add items to an array this way but not the best solution
+shopList[2] = 'ice cream';
+shopList // will return ['chedder cheese', 'whole milk', 'ice cream']
+// or can do it this way as well
+shopList[shopList.length] = 'tomatoes';
+shopList // will return ['chedder cheese', 'whole milk', 'ice cream', 'tomatoes']
+
+// Push and Pop
+// Push - add to end  
+
 
 
