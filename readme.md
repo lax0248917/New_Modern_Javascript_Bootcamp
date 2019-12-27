@@ -7,4 +7,6 @@
 - [x] Initiate the Git Repo for this course
 - [x] Maintain source control through the entirety of the course
 
-### Sections 1 - 5 were basically review for me. I had recently learned these concepts in Colt's Web Developer Bootcamp, however, it was mostly in an early version of Javascript. This was the first time I was using "let" and "const" as well as template literals and ternary operator. 
+### Sections 1 - 6 were basically review for me. I had recently learned these concepts in Colt's Web Developer Bootcamp, however, it was mostly in an early version of Javascript. This was the first time I was using "let" and "const" as well as template literals and ternary operator. 
+
+*** Starting Section 7 and The World of Loops
