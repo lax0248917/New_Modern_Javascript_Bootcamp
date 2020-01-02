@@ -10,3 +10,20 @@
 ### Sections 1 - 6 were basically review for me. I had recently learned these concepts in Colt's Web Developer Bootcamp, however, it was mostly in an early version of Javascript. This was the first time I was using "let" and "const" as well as template literals and ternary operator. 
 
 *** Starting Section 7 and The World of Loops
+
+- [x] Learned For Loops
+- [x] Learned While Loops
+- [x] Learned For...Of Loops
+- [x] Learned For...In Loops
+
+*** Section 8 is all about Functions!!!
+- [x] My First Function
+- [x] Dice Roll Function
+- [x] Introducing Arguments
+- [x] Functions with Multiple Arguments
+- [x] The Return Statement
+- [x] Return Values
+- [x] Functions Challenge 1 "Password Validator"
+- [] Functions Challenge 2 "Average"
+- [] Functions Challenge 3 "Pangrams"
+- [] Functions Challenge 4 "Playing Cards"
