@@ -27,3 +27,14 @@
 - [x] Functions Challenge 2 "Average"
 - [x] Functions Challenge 3 "Pangrams"
 - [x] Functions Challenge 4 "Playing Cards"
+
+*** Section 9 "An Advanced Look at Functions"
+- [] Function Scope
+- [] Block Scope
+- [] Lexical Scope
+- [] Function Expressions
+- [] Higher Order Functions 
+- [] Functions as Arguments
+- [] Functions as Return Values
+- [] Callbacks
+- [] Hoisting
