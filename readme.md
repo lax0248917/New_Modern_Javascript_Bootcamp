@@ -29,7 +29,7 @@
 - [x] Functions Challenge 4 "Playing Cards"
 
 *** Section 9 "An Advanced Look at Functions"
-- [] Function Scope
+- [x] Function Scope
 - [] Block Scope
 - [] Lexical Scope
 - [] Function Expressions
