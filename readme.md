@@ -24,6 +24,6 @@
 - [x] The Return Statement
 - [x] Return Values
 - [x] Functions Challenge 1 "Password Validator"
-- [] Functions Challenge 2 "Average"
-- [] Functions Challenge 3 "Pangrams"
-- [] Functions Challenge 4 "Playing Cards"
+- [x] Functions Challenge 2 "Average"
+- [x] Functions Challenge 3 "Pangrams"
+- [x] Functions Challenge 4 "Playing Cards"
