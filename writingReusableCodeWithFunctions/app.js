@@ -134,3 +134,93 @@ function isValidPassword (password, username) {
 // 	const tooSimilar = password.indexOf(username) !== -1;
 // 	return !tooshort && !hasSpace && !tooSimilar;
 // }
+
+// Function Challenge 2 - Average
+// Write a function to find the average value in an array of numbers
+// avg([0, 50]) // 25
+// avg([75, 76, 80, 95, 100]) // 85.2
+
+function avg (arr) {
+	let total = 0; //starting point of total
+	for (let num of arr) {
+		// iterate the variable num over the arr for values
+		total += num; //take total, add the value of num for the length of array
+	}
+	let res = total / arr.length; // divide total by arrays length, assign var
+	return res; // display the result
+}
+
+// Function Challenge 3 - Pangram
+// A pangram is a sentence that contains every letter of the alphabet, like: "The quick brown fox jumps over the lazy dog"
+// Write a function called isPangram which checks to see if a given sentence contains every letter of the alphabet. Make sure you ignore string casing!
+// isPangram("The five boxing wizards jump quickly") //true
+// isPangram("The five boxing wizards jump quick") //false
+
+function isPangram (str) {
+	let newString = str.toLowerCase();
+	for (let char of 'abcdefghijklmnopqrstuvwxyz') {
+		if (newString.indexOf(char) === -1) {
+			return false;
+		}
+	}
+	return true;
+}
+
+// Function Challenge 4 - Get Playing Card
+// Write a getCard() function which returns a random playing card object like:
+//  {
+//	  value: 'K'
+//    suit: 'clubs'
+//  }
+// pick a radom value from:
+//-----1,2,3,4,5,6,7,8,9,10,J,Q,K,A
+// pick a random suit from:
+//-----clubs, spades, hearts, diamonds
+// return both in an object
+
+// My Attempt keeping my notes
+// function getCard () {
+// 	// define values array
+// 	let cardValue = [ '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A' ];
+// 	// define suit array
+// 	let cardSuit = [ 'clubs', 'spades', 'hearts', 'diamonds' ];
+// 	// return a random value
+// 	let randomValue = cardValue[Math.floor(Math.random() * cardValue.length)];
+// 	console.log(randomValue);
+// 	// return a random suit
+// 	let randomSuit = cardSuit[Math.floor(Math.random() * cardSuit.length)];
+// 	console.log(randomSuit);
+// 	// return both as an object
+// 	let result = {
+// 		value : randomValue,
+// 		suit  : randomSuit
+// 	};
+// 	return result;
+//}
+
+// My finsihed code
+// function getCard () {
+// 	const cardValue = [ '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A' ];
+// 	const cardSuit = [ 'clubs', 'spades', 'hearts', 'diamonds' ];
+
+// 	let randomValue = cardValue[Math.floor(Math.random() * cardValue.length)];
+// 	let randomSuit = cardSuit[Math.floor(Math.random() * cardSuit.length)];
+// 	let result = {
+// 		value : randomValue,
+// 		suit  : randomSuit
+// 	};
+// 	return result;
+// }
+
+// Refactor of the above code using a function to remove duplicated operations
+
+function pick (arr) {
+	const idx = Math.floor(Math.random() * arr.length);
+	return arr[idx];
+}
+
+function getCard () {
+	const cardValue = [ '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A' ];
+	const cardSuit = [ 'clubs', 'spades', 'hearts', 'diamonds' ];
+	return { value: pick(cardValue), suit: pick(cardSuit) };
+}
