@@ -30,11 +30,11 @@
 
 *** Section 9 "An Advanced Look at Functions"
 - [x] Function Scope
-- [] Block Scope
-- [] Lexical Scope
-- [] Function Expressions
-- [] Higher Order Functions 
-- [] Functions as Arguments
-- [] Functions as Return Values
-- [] Callbacks
-- [] Hoisting
+- [x] Block Scope
+- [x] Lexical Scope
+- [x] Function Expressions
+- [x] Higher Order Functions 
+- [x] Functions as Arguments
+- [x] Functions as Return Values
+- [x] Callbacks
+- [x] Hoisting
