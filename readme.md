@@ -38,3 +38,17 @@
 - [x] Functions as Return Values
 - [x] Callbacks
 - [x] Hoisting
+
+*** Section 10 "Apply Functions to Collections of Data"
+- [x] Intro to Array Callback Methods
+- [x] forEach
+- [x] Map
+- [x] Arrow Functions Intro
+- [ ] Arrow Functions: Implicit Returns
+- [ ] Array.find
+- [ ] Filter
+- [ ] Some & Every
+- [ ] Revisting Sort!
+- [ ] Reduce Intro
+- [ ] Reduce Pt.2
+- [ ] Even More Reduce!
