@@ -52,3 +52,40 @@
 - [ ] Reduce Intro
 - [ ] Reduce Pt.2
 - [ ] Even More Reduce!
+
+## The above information was my first attempt to complete this course. Somewhere along the line I got side tracked. Again, leaving me with an incomplete understanding of Javascript. 
+
+## Today, starts a second attempt at completing this course. Mentioned above, at the time I start this course sections 1-6 were review. This time I believe I will learn new things in those first 6 sections. This time I am not going to quit. Here goes!
+
+*** Section 1 "Introduction"
+- [x] How This Course Works
+- [x] JS, ECMA, TC39: What Do They Mean??
+- [x] The Tools You Need
+- [x] Customizing VSCode & Extensions
+- [x] A Quick Note About MDN
+
+*** Section 2 "JS Values & Variables"
+- [x] Goals & Primitives
+- [x] Running Code in JS Console
+- [x] Introducing Numbers
+- [x] NaN & Infinity
+- [x] Numbers Quiz
+- [x] Variables & Let
+- [x] Unary Operators
+- [x] Introducing Const
+- [x] The Legacy of Var
+- [x] Variables Quiz
+
+*** Section 3 "How to Model Data Efficiently"
+- [ ] Booleans Intro
+- [ ] Strings
+- [ ] String Indices
+- [ ] String Methods
+- [ ] More String Methods
+- [ ] Strings Quiz
+- [ ] String Escape Characters
+- [ ] String Template Literals
+- [ ] Null & Undefined
+- [ ] The Math Object & Random Numbers
+- [ ] typeof Operator
+- [ ] parseInt & parseFloat
