@@ -77,10 +77,10 @@
 - [x] Variables Quiz
 
 *** Section 3 "How to Model Data Efficiently"
-- [ ] Booleans Intro
-- [ ] Strings
-- [ ] String Indices
-- [ ] String Methods
+- [x] Booleans Intro
+- [x] Strings
+- [x] String Indices
+- [x] String Methods
 - [ ] More String Methods
 - [ ] Strings Quiz
 - [ ] String Escape Characters
