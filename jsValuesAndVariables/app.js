@@ -79,6 +79,25 @@ const daysInWeek = 7;
 const minHeightForRide = 60;
 // in situations where you don't want to change the variable.
 // can not have variables with the same name regardless of const or let
+
+// Var Keyword
 // var is available but not widely used today
 var eggs = 12;
 eggs; // returns 12
+
+// Variables Quiz
+//What is the value of eggCount
+let eggCount = 42;
+eggCount + 2;
+// eggCount = 42
+
+//What is the value of rating after this code runs?
+const rating = 7.5;
+rating = 8;
+//error
+
+//What's the value of wind_speed
+let wind_speed = 76;
+wind_speed += 5; //81
+wind_speed--; //80
+// should be camelCase // windSpeed
