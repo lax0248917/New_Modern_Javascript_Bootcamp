@@ -81,11 +81,45 @@
 - [x] Strings
 - [x] String Indices
 - [x] String Methods
-- [ ] More String Methods
-- [ ] Strings Quiz
-- [ ] String Escape Characters
-- [ ] String Template Literals
-- [ ] Null & Undefined
-- [ ] The Math Object & Random Numbers
-- [ ] typeof Operator
-- [ ] parseInt & parseFloat
+- [x] More String Methods
+- [x] Strings Quiz
+- [x] String Escape Characters
+- [x] String Template Literals
+- [x] Null & Undefined
+- [x] The Math Object & Random Numbers
+- [x] typeof Operator
+- [x] parseInt & parseFloat
+
+*** Section 4 "Controlling Program Logic and Flow"
+- [x] Making Decisions in JS
+- [x] Comparison Operators
+- [x] Double Equals (==)
+- [x] Triple Equals (===)
+- [x] Running Code From a Script
+- [x] If Statements
+- [x] Else If
+- [x] Else
+- [x] Nesting Conditionals
+- [x] Truthy & Falsy Values
+- [x] Logical AND (&&)
+- [x] Logical OR (||)
+- [x] NOT Operator (!)
+- [x] Operator Precedence
+- [x] The Switch Statement
+- [x] Ternary Operator 
+  
+*** Section 5 "Capture Collections of Data with Arrays
+- [ ] Creating Arrays
+- [ ] Array Indices
+- [ ] Modifying Arrays
+- [ ] Push and Pop
+- [ ] Shift and Unshift
+- [ ] Concat
+- [ ] Includes and IndexOf
+- [ ] Reverse and Join
+- [ ] Slice
+- [ ] Splice
+- [ ] Sorting (Part 1)
+- [ ] Intro to Reference Types
+- [ ] Using Const with Arrays
+- [ ] Working with Nested Arrays

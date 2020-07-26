@@ -62,10 +62,10 @@ console.log('Baseball'.slice(4)); // will return "ball"
 // the index that is identified is the beginning of the separation.
 // can have a start and an ending argument
 let name = 'superhero';
-console.log(name.slice(0, 5)); //will return super
+console.log(name.slice(0, 5)); //will return super, slice is not inclusive
 
 let sport = 'baseball is entertaining';
-console.log(sport.replace('entertaining', 'ok')); //returns baseball is ok
+console.log(sport.replace('entertaining', 'ok')); //returns baseball is ok, replace will only replace the first occurence.
 
 //Quiz
 const age = '5' + '4';
@@ -93,6 +93,7 @@ console.log(ind); //will return 7
 
 // String Escape Characters
 ("He said I ain't happy"); // will return He said I ain't happy
+('he said "I aint happy"'); // will return "he said "I aint happy""
 ('He said "I aint happy"'); //will return He said "I aint happy"
 
 ('Hello\nGoodbye'); // will return Hello
