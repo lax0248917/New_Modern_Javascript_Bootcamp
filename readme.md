@@ -109,17 +109,40 @@
 - [x] Ternary Operator 
   
 *** Section 5 "Capture Collections of Data with Arrays
-- [ ] Creating Arrays
-- [ ] Array Indices
-- [ ] Modifying Arrays
-- [ ] Push and Pop
-- [ ] Shift and Unshift
-- [ ] Concat
-- [ ] Includes and IndexOf
-- [ ] Reverse and Join
-- [ ] Slice
-- [ ] Splice
-- [ ] Sorting (Part 1)
-- [ ] Intro to Reference Types
-- [ ] Using Const with Arrays
-- [ ] Working with Nested Arrays
+- [x] Creating Arrays
+- [x] Array Indices
+- [x] Modifying Arrays
+- [x] Push and Pop
+- [x] Shift and Unshift
+- [x] Concat
+- [x] Includes and IndexOf
+- [x] Reverse and Join
+- [x] Slice
+- [x] Splice
+- [x] Sorting (Part 1)
+- [x] Intro to Reference Types
+- [x] Using Const with Arrays
+- [x] Working with Nested Arrays
+
+*** Section 6 "Objects - The Core of Javascript"
+- [x] Intro To Objects
+- [x] Creating Object Literals
+- [x] Accessing Object Properties
+- [x] Adding and Updating Properties
+- [x] Nested Arrays & Objects
+- [x] Objects and Reference Types
+- [x] Array/Object Equality
+
+*** Section 7 "The World of Loops"
+- [ ] Intro to Loops
+- [ ] For Loops
+- [ ] Infinite Loops!
+- [ ] For Loops & Arrays
+- [ ] Nested For Loops
+- [ ] Intro to While Loops
+- [ ] More While Loops
+- [ ] Break Keyword
+- [ ] For...Of Intro
+- [ ] Comparing For and For...Of
+- [ ] For...OF with Objects
+- [ ] For...In Loops
