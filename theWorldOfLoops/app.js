@@ -53,10 +53,11 @@ const myStudents = [
 		grade     : 90
 	}
 ];
-// for (let i = 0; i < myStudents.length; i++) {
-//   let student = myStudents[i];
-//   console.log(`${student.firstname} scored ${student.grade}`);
-// }
+
+for (let i = 0; i < myStudents.length; i++) {
+  let student = myStudents[i];
+  console.log(`${student.firstname} scored ${student.grade}`);
+}
 
 //Reverse a word
 const word = 'stressed';
@@ -148,6 +149,10 @@ console.log('Congrats you win!!');
 
 // For...Of Loop
 
+// syntax = for (variable of interable) {
+	// code to run
+// }
+
 let subreddits = [
 	'soccer',
 	'popheads',
@@ -193,7 +198,7 @@ for (let row of magicSquare) {
 	console.log(`${row} summed to ${sum}`);
 }
 
-//Iterating over an object using a for...of loop
+//Iterating over an object using a for...of loop, just remember that objects are not iterable. You can iterate over an objects keys and/values
 const movieReviews = {
 	Arrival                : 9.5,
 	Alien                  : 9,
@@ -222,6 +227,11 @@ let avg = totals / ratings.length;
 console.log(avg);
 
 // A New Type of Loop to do what we just did above, called For...In
+
+// Syntax = for (variable in object) {
+	// code to run or statement
+//}
+
 const jeopardyWinnings = {
 	regularPay            : 2522700,
 	watsonChallenge       : 300000,

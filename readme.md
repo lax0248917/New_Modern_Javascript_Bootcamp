@@ -134,15 +134,39 @@
 - [x] Array/Object Equality
 
 *** Section 7 "The World of Loops"
-- [ ] Intro to Loops
-- [ ] For Loops
-- [ ] Infinite Loops!
-- [ ] For Loops & Arrays
-- [ ] Nested For Loops
-- [ ] Intro to While Loops
-- [ ] More While Loops
-- [ ] Break Keyword
-- [ ] For...Of Intro
-- [ ] Comparing For and For...Of
-- [ ] For...OF with Objects
-- [ ] For...In Loops
+- [x] Intro to Loops
+- [x] For Loops
+- [x] Infinite Loops!
+- [x] For Loops & Arrays
+- [x] Nested For Loops
+- [x] Intro to While Loops
+- [x] More While Loops
+- [x] Break Keyword
+- [x] For...Of Intro
+- [x] Comparing For and For...Of
+- [x] For...OF with Objects
+- [x] For...In Loops
+
+*** Section 8 "Writing Reuseable Code with Functions"
+- [x] Our First Function!
+- [x] Dice Roll Function
+- [x] Introducing Arguments
+- [x] Functions With Multiple Args
+- [x] The Return Statement
+- [x] More on Return Values
+- [x] Function Challenge 1: passwordValidator
+- [x] Function Challenge 2: Average
+- [x] Function Challenge 3: Pangrams
+- [x] Function Challenge 4: Playing Card
+
+*** Section 9 "An Advanced Look at Functions
+- [ ] Function Scope
+- [ ] Block Scope
+- [ ] Lexical Scope
+- [ ] Function Expressions
+- [ ] Higher Order Functions
+- [ ] Functions as Arguments
+- [ ] Functions as Return Values
+- [ ] Callbacks
+- [ ] Hoisting
+
