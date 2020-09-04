@@ -1,7 +1,7 @@
 // An Advanced Look at Functions
 
 // Function Scope
-// Scope is like variable visibility: the location where a variable is defined dictats where it may be used.
+// Scope is like variable visibility: the location where a variable is defined dictates where it may be used.
 
 function helpMe () {
 	let msg = "I'm on fire!";
@@ -45,6 +45,8 @@ console.log(bird); //mandarin duck
 // 	console.log(animal); // eel
 // }
 // console.log(animal); // error
+
+// Blocks are denoted by curly braces {}, yet different than the curly braces used for object literals
 
 // The above code uses block scope for both const and let variables.
 // This is not the case for var. Var does not use block scope
@@ -121,12 +123,15 @@ const divide = function (x, y) {
 const operations = [ add, subtract, multiply, divide ];
 // when calling this function I can pass in the index of whichever function I want to be ran. or....
 
+// To call the above functions 
+operations[1](100, 4) // will return 96 
+
 // We can use a for..of loop
 for (let func of operations) {
 	let result = func(30, 5);
 	console.log(result);
 }
-// this will itrerater over all the functions and return the values based on what what passed into func.
+// this will iterate over all the functions and return the values based on what what passed into func.
 
 const thing = {
 	doSomething : multiply
@@ -146,6 +151,10 @@ function callThreeTimes (f) {
 function cry () {
 	console.log("BOO HOO I'M SO SAD");
 }
+
+// So if I pass in the function cry() as an argument in the function callThreeTimes()
+// Like so.. callThreeTimes(cry);
+// It will return in the console, three "BOO HOO I"M SO SAD"s
 
 function rage () {
 	console.log('I HATE EVERYTHING');
