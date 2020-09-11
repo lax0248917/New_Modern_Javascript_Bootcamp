@@ -178,8 +178,21 @@
 - [x] Arrow Functions: Implicit Returns
 - [x] Array.find
 - [x] Filter
-- [ ] Some & Every
-- [ ] Revistiing Sort!
-- [ ] Reduce Intro
-- [ ] Reduce Pt. 2
-- [ ] Even More Reduce!
+- [x] Some & Every
+- [x] Revistiing Sort!
+- [x] Reduce Intro
+- [x] Reduce Pt. 2
+- [x] Even More Reduce!
+
+*** Section 11: A Few Miscellaneous JS Features
+- [x] New JS Features Intro
+- [x] Default Parameters
+- [x] Spread for Function Calls
+- [x] Spread in Array Literals
+- [x] Spread in Object Literals
+- [x] The Arguments Object(not new)
+- [x] Rest Parameters (new!)
+- [x] Destructuring Arrays
+- [x] Destructuring Objects
+- [x] Nested Destructuring
+- [x] Destructing Parameters

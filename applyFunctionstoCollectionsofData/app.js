@@ -277,3 +277,151 @@ words.every((w) => {
 	let lastLetter = w[w.length - 1];
 	return lastLetter === 'g'
 }) // true
+
+// Some: Similiar to Every, but returns true if ANY of the array elements pass the test function
+const words = ["dog", "jello", "log", "cupcake", "bag", "wag"];
+
+//Are any of the words longer than 4 characters
+words.some((word) => {
+	return word.length > 4;
+}) //true
+
+// Do any of the words start with "Z"?
+words.some((word) => {
+	word[0] === "Z";
+}) // false
+
+// Do any of the words contain "cake"?
+words.some((word) => {
+	word.includes("cake");
+}) // true
+
+// Revisiting Sort
+// arr.sort(compareFunc(a,b))
+// if compareFunc(a,b) returns less than 0 - sort a before b
+// if compareFunc(a,b) returns 0 - leave a and b unchanged with respect to each other
+// if compareFunc(a,b) returns greater than 0 - sort b before a
+const prices = [400.50, 3000, 99.99, 35.99, 12.00, 9500];
+const ascSort = prices.sort((a, b) => {
+	a - b;
+}) // [12, 35.99, 99.99, 400.5, 3000, 9500]
+
+const descSort = prices.sort((a, b) => {
+	b - a;
+}) // [9500, 3000, 400.5, 99.99, 35.99, 12]
+// *** Remember that Sort is an array method that mutates the original array *** you can use .slice()
+// slice() with nothing passed in will copy the array. 
+
+const books = [
+	{
+		title   : 'Good Omens',
+		authors : [ 'Terry Pratchett', 'Neil Gaiman' ],
+		rating  : 4.25
+	},
+	{
+		title   : 'Bone: The Complete Edition',
+		authors : [ 'Jeff Smith' ],
+		rating  : 4.42
+	},
+	{
+		title   : 'American Gods',
+		authors : [ 'Neil Gaiman' ],
+		rating  : 4.11
+	},
+	{
+		title   : 'A Gentleman in Moscow',
+		authors : [ 'Amor Towles' ],
+		rating  : 4.36
+	}
+];
+
+books.sort((a, b) => {
+	a.rating - b.rating;
+}) // will change this array so that lowest rating is listed first in the books object
+
+// Reduce - built in array method that Executes a reducer function on each element of the array, resulting in a single value
+[3,5,7,9,11].reduce((accumulator, currentValue) => {
+	return accumulator + currentValue;
+}); // 35
+
+const nums = [3,4,5,6,7];
+nums.reduce((total, currentVal) => {
+	return total * currentVal;
+}) // 2520 
+
+// Reduce Pt. 2
+// Finding Max Val
+let grades = [89,96,58,77,62,93,81,99,73];
+const topScore = grades.reduce((max, currVal) => {
+	if (currVal > max) return currVal;
+	return max;
+})
+topScore; // 99
+
+// A shorter option w/ Math.max & implicit return
+const topScore = grades.reduce((max, currVal) => (
+	Math.max(max, currVal)
+))
+
+// Third part to reduce - Initial Value
+[4,5,6,7,8].reduce((accumulator, currentValue) => {
+	return accumulator + currentValue;
+}); // returns: 30
+
+[4,5,6,7,8].reduce((accumulator, currentValue) => {
+	return accumulator + currentValue;
+}, 100); //Returns: 130
+
+//Even More Reduce!
+// Tallying
+const votes = ["y","y","n","y","n","y","n","y","n","n","n","y","y"];
+
+const results = votes.reduce((tally, vote) => {
+	if(tally[vote]) {
+		tally[val]++;
+	}else {
+		tally[val] = 1;
+	}
+	return tally;
+}, {});
+results; // {y:7, n:6}
+
+const results = votes.reduce((tally, vote ) => {
+	tally[vote] = (tally[vote] || 0) + 1;
+	return tally;
+}, {}); //INITIAL VALUE: {}
+results; // {y: 7, n: 6}
+
+// Another reduce example
+const books = [
+	{
+		title   : 'Good Omens',
+		authors : [ 'Terry Pratchett', 'Neil Gaiman' ],
+		rating  : 2.25
+	},
+	{
+		title   : 'Bone: The Complete Edition',
+		authors : [ 'Jeff Smith' ],
+		rating  : 3.42
+	},
+	{
+		title   : 'American Gods',
+		authors : [ 'Neil Gaiman' ],
+		rating  : 4.11
+	},
+	{
+		title   : 'A Gentleman in Moscow',
+		authors : [ 'Amor Towles' ],
+		rating  : 4.36
+	}
+];
+
+// Want an object that contains arrays of books based on rating
+const groupedByRating = books.reduce((groupedBooks, book) => {
+	const key = Math.floor(book.rating);
+	if(!groupedBooks[key]) {
+		groupedBooks[key] = [];
+	}
+	groupedBooks[key].push(book);
+	return groupedBooks;
+}, {}) 
