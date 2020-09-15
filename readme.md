@@ -196,3 +196,26 @@
 - [x] Destructuring Objects
 - [x] Nested Destructuring
 - [x] Destructing Parameters
+
+*** Section 12 Object Methods and the "This" Keyword
+- [x] Shorthand Object Properties
+- [x] Computed Properties
+- [x] Adding Methods to Objects
+- [x] Method Shorthand Syntax
+- [x] Intro to Keyword THIS
+- [x] Using THIS in Methods
+- [x] THIS: Invocation Context
+- [x] Annoyomatic Demo
+- [x] Putting it All Together: Deck Of Cards
+- [x] Creating a Deck Factory
+
+*** Section 13 JS In the Browser - DOM Manipulation
+- [ ] Introduction to the DOM
+- [ ] IMPORTANT NOTE: HTML & CSS
+- [ ] Taste of the DOM
+- [ ] Another Fun DOM Example
+- [ ] The Document Object
+- [ ] getElementById
+- [ ] getElementsByTagName
+- [ ] getElementsByClassName
+- [ ] querySelector & querySelectorAll
