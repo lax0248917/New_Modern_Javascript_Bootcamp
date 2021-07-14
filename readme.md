@@ -209,13 +209,15 @@
 - [x] Putting it All Together: Deck Of Cards
 - [x] Creating a Deck Factory
 
-*** Section 13 JS In the Browser - DOM Manipulation
-- [ ] Introduction to the DOM
-- [ ] IMPORTANT NOTE: HTML & CSS
-- [ ] Taste of the DOM
-- [ ] Another Fun DOM Example
-- [ ] The Document Object
-- [ ] getElementById
-- [ ] getElementsByTagName
-- [ ] getElementsByClassName
-- [ ] querySelector & querySelectorAll
+## Well it happened again, here I was thinking I was going to be able to complete this course and life got in the way. I truly need to learn this material and cement these concepts. I don't believe I need to start over, but I am going to do a little review of functions and then move on from there. Probably wouldn't hurt to reference array methods along the way as well. Ugh, can I please just figure this out.
+
+*** Section 9 An Advanced Look at Functions
+- [x] Function Scope
+- [x] Block Scope
+- [x] Lexical Scope
+- [x] Function Expressions
+- [x] Higher Order Functions
+- [ ] Functions as Arguments
+- [ ] Functions as Return Values
+- [ ] Callbacks
+- [ ] Hoisting
