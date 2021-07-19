@@ -212,6 +212,16 @@ isInNineties(92); //true
 const isNiceWeather = makeBetweenFunc(60, 79);
 isNiceWeather(98); //false
 
+function notEqualToo(x, y) {
+	return function (num) {
+		return num !== x && num !== y;
+	};
+}
+
+const sameAge = notEqualToo(20, 30);
+sameAge(20); // false
+sameAge(25); // true
+
 // Callback Functions
 // when you pass another function in a function and then call that function its called a callback
 function grumpus () {
@@ -243,7 +253,8 @@ console.log(animal); // Tapir
 // hoot();
 // let hoot = function () {
 // 	console.log('HOOO HOOO');
-// }; // This code will not
+// }; // This code will not run
 
 //Let and Const
 //let or const declarations will not hoist
+

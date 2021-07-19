@@ -217,7 +217,21 @@
 - [x] Lexical Scope
 - [x] Function Expressions
 - [x] Higher Order Functions
-- [ ] Functions as Arguments
-- [ ] Functions as Return Values
-- [ ] Callbacks
-- [ ] Hoisting
+- [x] Functions as Arguments
+- [x] Functions as Return Values
+- [x] Callbacks
+- [x] Hoisting
+
+*** Section 10 Apply Functions to Collections of Data
+- [ ] Intro to Array Callback Methods
+- [ ] forEach
+- [ ] Map
+- [ ] Arrow Functions Intro
+- [ ] Arrow Functions: Implicit Returns
+- [ ] Array.find
+- [ ] Filter
+- [ ] Some and Every
+- [ ] Revisting Sort!
+- [ ] Reduce Intro
+- [ ] Reduce Pt. 2
+- [ ] Even More Reduce!
