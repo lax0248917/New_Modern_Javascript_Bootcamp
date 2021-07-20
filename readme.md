@@ -223,9 +223,9 @@
 - [x] Hoisting
 
 *** Section 10 Apply Functions to Collections of Data
-- [ ] Intro to Array Callback Methods
-- [ ] forEach
-- [ ] Map
+- [x] Intro to Array Callback Methods
+- [x] forEach
+- [x] Map
 - [ ] Arrow Functions Intro
 - [ ] Arrow Functions: Implicit Returns
 - [ ] Array.find
