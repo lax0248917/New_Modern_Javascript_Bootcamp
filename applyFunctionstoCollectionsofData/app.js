@@ -210,6 +210,10 @@ goodBook(); // {title: "Bone: The Complete Editionm", authors: Array(1), rating:
 const neilBook = books.find((b) => {
 	return b.authors.includes("Neil Gaiman");
 })
+
+// Could also write the above as an implicit return 
+const neilBook = b => b.authors.includes("Neil Gaiman");
+
 neilBook(); // {title: "Good Omens", author: Array(1), rating: 4.25}
 // array.find() will only return the first match
 

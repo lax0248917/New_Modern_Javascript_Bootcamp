@@ -226,12 +226,37 @@
 - [x] Intro to Array Callback Methods
 - [x] forEach
 - [x] Map
-- [ ] Arrow Functions Intro
-- [ ] Arrow Functions: Implicit Returns
-- [ ] Array.find
-- [ ] Filter
-- [ ] Some and Every
-- [ ] Revisting Sort!
-- [ ] Reduce Intro
-- [ ] Reduce Pt. 2
-- [ ] Even More Reduce!
+- [x] Arrow Functions Intro
+- [x] Arrow Functions: Implicit Returns
+- [x] Array.find
+- [x] Filter
+- [x] Some and Every
+- [x] Revisting Sort!
+- [x] Reduce Intro
+- [x] Reduce Pt. 2
+- [x] Even More Reduce!
+
+*** Section 11 A Few Miscellaneous JS Features
+- [x] New JS Features Intro
+- [x] Default Parameters
+- [x] Spread for Function Calls
+- [x] Spread in Array Literals
+- [x] Soread in Object Literals
+- [x] The Arguments Object (not new)
+- [x] Rest Parameters (new!)
+- [x] Destructuring Arrays
+- [x] Destructuring Objects
+- [x] Nested Destructuring
+- [x] Destructuring Parameters
+
+*** Section 12 Object Methods and the 'This' Keyword
+- [x] Shorthand Object Properties
+- [ ] Computed Properties
+- [ ] Adding Methods to Objects
+- [ ] Method Shorthand Syntax
+- [ ] Into to the Keyword THIS
+- [ ] Using THIS in Methods
+- [ ] THIS: Invocation Context
+- [ ] Annoyomatic Demo
+- [ ] Putting It All Together: Deck of Cards
+- [ ] Creating A Deck Factory
