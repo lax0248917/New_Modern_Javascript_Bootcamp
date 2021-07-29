@@ -161,8 +161,8 @@ person.printBio(); // Cherilyn Sarkisian AKA Cher is a person!
 
 const printBio = person.printBio();
 printBio() // error: this.fullName is not a function
-// We are getting this error because in this instance "this" refers to the global scope where it there is no function
-// A way to think about what the keyword 'this' is referencing is to look to the left of the method. This will reference that variable
+// We are getting this error because in this instance "this" refers to the global scope where there is no function
+// A way to think about what the keyword 'this' is referencing is to look to the left of the method. This will reference that object
 person.printBio() // here we are invoking the method on an object. so This references the object not the window. Its all about how the
 // function is called.
 
@@ -172,6 +172,7 @@ person.laugh() //Window {parent: Window, postMessage: etc}
 // 'this' is not changed and set to the global scope. One reason why we don't use arrow functions to declare methods.
 
 // Annoyomatic Demo
+// possible benefit to using arrow functions in regards to the keyworld "this"
 const annoyer = {
     phrases: ["literally", "cray cray", "I can't even", "Totes!", "YOLO", "Can't Stop, Won't Stop"],
     pickPhrase() {

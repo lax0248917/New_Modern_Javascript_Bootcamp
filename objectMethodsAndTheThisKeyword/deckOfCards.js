@@ -1,6 +1,5 @@
 // Deck of Cards
 
-
 // old way
 // function makeDeck() {
 //     const deck = [];

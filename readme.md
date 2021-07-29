@@ -251,12 +251,23 @@
 
 *** Section 12 Object Methods and the 'This' Keyword
 - [x] Shorthand Object Properties
-- [ ] Computed Properties
-- [ ] Adding Methods to Objects
-- [ ] Method Shorthand Syntax
-- [ ] Into to the Keyword THIS
-- [ ] Using THIS in Methods
-- [ ] THIS: Invocation Context
-- [ ] Annoyomatic Demo
-- [ ] Putting It All Together: Deck of Cards
-- [ ] Creating A Deck Factory
+- [x] Computed Properties
+- [x] Adding Methods to Objects
+- [x] Method Shorthand Syntax
+- [x] Into to the Keyword THIS
+- [x] Using THIS in Methods
+- [x] THIS: Invocation Context
+- [x] Annoyomatic Demo
+- [x] Putting It All Together: Deck of Cards
+- [x] Creating A Deck Factory
+
+*** Section 13 JS In The Browser - DOM Manipulation
+- [x] Introduction to the DOM
+- [x] IMPORTANT NOTE: HTML & CSS
+- [x] Taste of the DOM
+- [x] Another Fun DOM Example
+- [ ] The Document Object
+- [ ] getElementById
+- [ ] getElementByTagName
+- [ ] getElementByClassName
+- [ ] querySelector & querySelectorAll
