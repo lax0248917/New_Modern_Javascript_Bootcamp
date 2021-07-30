@@ -266,8 +266,24 @@
 - [x] IMPORTANT NOTE: HTML & CSS
 - [x] Taste of the DOM
 - [x] Another Fun DOM Example
-- [ ] The Document Object
-- [ ] getElementById
-- [ ] getElementByTagName
-- [ ] getElementByClassName
-- [ ] querySelector & querySelectorAll
+- [x] The Document Object
+- [x] getElementById
+- [x] getElementsByTagName
+- [x] getElementsByClassName
+- [x] querySelector & querySelectorAll
+
+*** Section 14 Twisting the DOM to Our Will!
+- [ ] Working with innerText and textContent
+- [ ] innerHTML
+- [ ] value, src, href, and more
+- [ ] Getting and Setting Attributes
+- [ ] Finding Parent/Children/Siblings
+- [ ] Changing Multiple Elements
+- [ ] Alerting Styles
+- [ ] getComputedStyle
+- [ ] Manipulating Classes
+- [ ] Creating Elements
+- [ ] Append, Prepend, & insertBefore
+- [ ] removeChild & remove
+- [ ] NBA Scores Chart Pt1.
+- [ ] NBA Scores Chart Refactor
