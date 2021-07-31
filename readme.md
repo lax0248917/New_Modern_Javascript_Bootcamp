@@ -293,9 +293,21 @@
 - [x] 2 Ways NOT to Add Events
 - [x] addEventListener
 - [x] The Impossible Button Demo
-- [ ] Events on Multiple Elements
-- [ ] The Event Object
-- [ ] Key Events: keypress, keyup, & keydown
-- [ ] Coin Game Demo
-- [ ] Form Events & PreventDefault
-- [ ] Input & Change Events
+- [x] Events on Multiple Elements
+- [x] The Event Object
+- [x] Key Events: keypress, keyup, & keydown
+- [x] Coin Game Demo
+- [x] Form Events & PreventDefault
+- [x] Input & Change Events
+
+*** Section 16 Asynchronous Code. Callbacks & Promises
+- [ ] The Call Stack
+- [ ] Call Stack Debugging w/ Dev Tools
+- [ ] JS is Single Threaded
+- [ ] How Asynchronous Callbacks Actually Work
+- [ ] Welcome to Callback Hell
+- [ ] Introducing Promises!
+- [ ] Returning Promises from Functions
+- [ ] Resolving/Rejecting/ w/ Values
+- [ ] The Delights of Promise Chaining
+- [ ] Refactoring w/ Promises
