@@ -289,10 +289,10 @@
 - [x] NBA Scores Chart Refactor
 
 *** Section 15 Communicating with Events
-- [ ] Intro to DOM Events
-- [ ] 2 Ways NOT to Add Events
-- [ ] addEventListener
-- [ ] The Impossible Button Demo
+- [x] Intro to DOM Events
+- [x] 2 Ways NOT to Add Events
+- [x] addEventListener
+- [x] The Impossible Button Demo
 - [ ] Events on Multiple Elements
 - [ ] The Event Object
 - [ ] Key Events: keypress, keyup, & keydown
