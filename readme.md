@@ -287,3 +287,15 @@
 - [x] removeChild & remove
 - [x] NBA Scores Chart Pt1.
 - [x] NBA Scores Chart Refactor
+
+*** Section 15 Communicating with Events
+- [ ] Intro to DOM Events
+- [ ] 2 Ways NOT to Add Events
+- [ ] addEventListener
+- [ ] The Impossible Button Demo
+- [ ] Events on Multiple Elements
+- [ ] The Event Object
+- [ ] Key Events: keypress, keyup, & keydown
+- [ ] Coin Game Demo
+- [ ] Form Events & PreventDefault
+- [ ] Input & Change Events
