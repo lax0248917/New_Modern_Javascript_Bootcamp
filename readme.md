@@ -273,17 +273,17 @@
 - [x] querySelector & querySelectorAll
 
 *** Section 14 Twisting the DOM to Our Will!
-- [ ] Working with innerText and textContent
-- [ ] innerHTML
-- [ ] value, src, href, and more
-- [ ] Getting and Setting Attributes
-- [ ] Finding Parent/Children/Siblings
-- [ ] Changing Multiple Elements
-- [ ] Alerting Styles
-- [ ] getComputedStyle
-- [ ] Manipulating Classes
-- [ ] Creating Elements
-- [ ] Append, Prepend, & insertBefore
-- [ ] removeChild & remove
-- [ ] NBA Scores Chart Pt1.
-- [ ] NBA Scores Chart Refactor
+- [x] Working with innerText and textContent
+- [x] innerHTML
+- [x] value, src, href, and more
+- [x] Getting and Setting Attributes
+- [x] Finding Parent/Children/Siblings
+- [x] Changing Multiple Elements
+- [x] Alerting Styles
+- [x] getComputedStyle
+- [x] Manipulating Classes
+- [x] Creating Elements
+- [x] Append, Prepend, & insertBefore
+- [x] removeChild & remove
+- [x] NBA Scores Chart Pt1.
+- [x] NBA Scores Chart Refactor
