@@ -301,13 +301,13 @@
 - [x] Input & Change Events
 
 *** Section 16 Asynchronous Code. Callbacks & Promises
-- [ ] The Call Stack
-- [ ] Call Stack Debugging w/ Dev Tools
-- [ ] JS is Single Threaded
-- [ ] How Asynchronous Callbacks Actually Work
-- [ ] Welcome to Callback Hell
-- [ ] Introducing Promises!
-- [ ] Returning Promises from Functions
-- [ ] Resolving/Rejecting/ w/ Values
-- [ ] The Delights of Promise Chaining
-- [ ] Refactoring w/ Promises
+- [x] The Call Stack
+- [x] Call Stack Debugging w/ Dev Tools
+- [x] JS is Single Threaded
+- [x] How Asynchronous Callbacks Actually Work
+- [x] Welcome to Callback Hell
+- [x] Introducing Promises!
+- [x] Returning Promises from Functions
+- [x] Resolving/Rejecting/ w/ Values
+- [x] The Delights of Promise Chaining
+- [x] Refactoring w/ Promises
