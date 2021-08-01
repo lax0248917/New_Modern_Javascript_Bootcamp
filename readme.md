@@ -311,3 +311,14 @@
 - [x] Resolving/Rejecting/ w/ Values
 - [x] The Delights of Promise Chaining
 - [x] Refactoring w/ Promises
+
+*** Section 17 Making HTTP Requests
+- [x] Intro to AJAX
+- [x] JSON & XML
+- [x] XMLHttpRequests: The Basics
+- [x] XMLHttpRequests: Chaining Requests
+- [x] A Better Way: Fetch!
+- [x] Chaining Fetch Requests
+- [x] Refactoring Fetch Chains
+- [x] An Even Better Way: Axios
+- [x] Sequential Axios Requests
