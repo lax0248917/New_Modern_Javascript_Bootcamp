@@ -322,3 +322,12 @@
 - [x] Refactoring Fetch Chains
 - [x] An Even Better Way: Axios
 - [x] Sequential Axios Requests
+
+*** Section 18 Async & Await Requests
+- [x] A Quick Overview of Async Functions
+- [x] The Async Keyword
+- [x] The Await Keyword
+- [x] Error Handling in Async Functions
+- [x] Multiple Awaits
+- [x] Parallel vs. Sequential Requests
+- [x] Refactoring with Promise.all
