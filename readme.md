@@ -331,3 +331,12 @@
 - [x] Multiple Awaits
 - [x] Parallel vs. Sequential Requests
 - [x] Refactoring with Promise.all
+
+*** Section 19 Protoypes, Classes, & The New Operator
+- [x] What on Earth are Prototypes
+- [x] An Intro to OOP
+- [x] Factory Functions
+- [x] Constructor Functions
+- [x] JS Classes - Syntactical Sugar
+- [x] A Bit More Practice with Classes
+- [x] Extends, Super, and Subclasses
