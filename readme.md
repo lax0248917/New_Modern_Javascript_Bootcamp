@@ -340,3 +340,83 @@
 - [x] JS Classes - Syntactical Sugar
 - [x] A Bit More Practice with Classes
 - [x] Extends, Super, and Subclasses
+
+## Part II
+
+*** Section 20 Drawing Animations
+- [x] Welcome to Part 2!
+- [x] App Overview
+- [x] Project Setup
+- [x] Event-Based Architecture
+- [x] Class-Based Architecture
+- [x] Binding Events in a Class
+- [x] Reminder on 'This'
+- [x] Determining the Value of 'This'
+- [x] Solving the 'This' Issue
+- [x] Starting and Pausing the Timer
+- [x] Where to Store Data?
+- [x] DOM-Centric Approach
+- [x] Getters and Setters
+- [x] Stopping the Timer
+- [x] Notifying the Outside World
+- [x] OnTick and OnComplete
+- [x] Extractng Timer Code
+- [x] Introducing SVG's
+- [x] Advanced Circle Properties
+- [x] The Secret to the Animation
+- [x] First Pass on the Animation
+- [x] Smoothing the Animation
+- [x] Adjusting by an Even Interval
+- [x] Using Icons
+- [x] Styling and Wrapup
+
+Code for the above project can be found *[here](https://github.com/lax0248917/timer)*
+
+*** Section 21 Application Design Patterns
+- [x] Application Overview
+- [x] Starter Kit Setup
+- [x] Big Challenges
+- [x] Fetching Movie Data
+- [x] Fetching a Single Movie
+- [x] AutoComplete Widget Design
+- [x] Searching the API on Input Change
+- [x] Delaying Search Input
+- [x] Understanding Debounce
+- [x] Implementing a Reusable Debounce
+- [x] Extracting Utility Functions
+- [x] Awaiting Async Functions
+- [x] Rendering Movies
+- [x] Handling Errored Responses
+- [x] Opening a Menu
+- [x] Stlye of Widget Creation
+- [x] Moving HTML Generation
+- [x] Quick Note
+- [x] Repairing References
+- [x] Handling Broken Images
+- [x] Automatically Closing the Dropdown
+- [x] Handling Empty Responses
+- [x] Handling Movie Selection
+- [x] Making a Followup Request
+- [x] Rendering an Expanded Summary
+- [x] Expanded Statistics
+- [x] Issues with the Codebase
+- [x] Making the Autocomplete Reusable
+- [x] Displaying Multiple Autocompletes
+- [x] Extracting Rendering Logic
+- [x] Extracting Selection Logic
+- [x] Removing Movie References
+- [x] Consuming a Different Source of Data
+- [x] Refreshed HTML Structure
+- [x] Avoiding Duplication of Config
+- [x] Hiding the Tutorial
+- [x] Showing Two Summaries
+- [x] When to Compare?
+- [x] How to Compare?
+- [x] Extracting Statistic Values
+- [x] Parsing Number of Awards
+- [x] Applying Parsed Properties
+- [x] Updating Styles
+- [x] Small Bug Fix
+- [x] App Wrapup
+
+Code for the above project can be found *[here](https://github.com/lax0248917/movie-fight)*
