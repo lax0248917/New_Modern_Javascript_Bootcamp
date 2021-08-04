@@ -420,3 +420,43 @@ Code for the above project can be found *[here](https://github.com/lax0248917/ti
 - [x] App Wrapup
 
 Code for the above project can be found *[here](https://github.com/lax0248917/movie-fight)*
+
+*** Section 22 Javascript with the Canvas API
+- [x] Application Overview
+- [x] Project Setup
+- [x] Matter Terminology
+- [x] Getting Content to Appear
+- [x] Boilerplate Overview
+- [x] Drawing Borders
+- [x] Clicking and Dragging
+- [x] Generating Random Shapes
+- [x] Maze Generation Algorithm
+- [x] More on Maze Generation
+- [x] Configuration Variables
+- [x] Grid Generation
+- [x] Verticals and Horizontals
+- [x] Abstracting Maze Dimensions
+- [x] Guiding Comments
+- [x] Neighbor Coordinates
+- [x] Shuffling Neighbor Pairs
+- [x] Determining Movement Direction
+- [x] Updating Vertical Wall Values
+- [x] Updating Horizontal Wall Values
+- [x] Validating Wall Structure
+- [x] Iterating Over Walls
+- [x] Drawing Horizontal Segments
+- [x] Drawing Vertical Segments
+- [x] Drawing the Goal
+- [x] Drawing the Playing Ball
+- [x] Handling Keypresses
+- [x] Adding Keyboard Controls
+- [x] Disabling Gravity
+- [x] Detecting a Win
+- [x] Adding a Win Animation
+- [x] Stetching the Canvas
+- [x] Understanding the New Unit Variables
+- [x] Refactoring for Rectangular Mazes
+- [x] Adding Fill Colors
+- [x] Displaying a Success Message
+
+Code for the above project can be found *[here](https://github.com/lax0248917/maze)*
