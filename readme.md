@@ -460,3 +460,46 @@ Code for the above project can be found *[here](https://github.com/lax0248917/mo
 - [x] Displaying a Success Message
 
 Code for the above project can be found *[here](https://github.com/lax0248917/maze)*
+
+*** Section 23 Make a Secret-Message Sharing App
+- [x] Application Overview
+- [x] Project Setup
+- [x] Handling Form Submission
+- [x] Base64 Encoding
+- [x] Encoding the Entered String
+- [x] Parts of a URL
+- [x] Generationg the URL
+- [x] Toggling Element Visibility
+- [x] Decoding the Message
+- [x] Displaying the Message
+- [x] App Deployment
+
+Code for the above project can be found *[here](https://github.com/lax0248917/message)*
+
+*** Section 24 Create Node JS Command Line Tool
+- [x] JavaScript with Node vs the Browser
+- [x] Executing JavaScript
+- [x] Working with Modules
+- [x] Invisible Node Functions
+- [x] The Require Cache
+- [x] Files Get Required Once!
+- [x] Debugging with Node
+- [x] App Overview
+- [x] Accessing Standard Library Modules
+- [x] The Callback Pattern in Node
+- [x] The Process.cwd Function
+- [x] Running a Node Program as an Executable
+- [x] Linking a Project
+- [x] Is it a File or a Folder
+- [x] A Buggy Initial Implementation
+- [x] Optional Solution #1
+- [x] A Callback-Based Solution
+- [x] Callback-Based Functions Using Promises
+- [x] Issues with Sequential Reads
+- [x] Promise.all-Based Solution
+- [x] Console Logs with Colors
+- [x] Accepting Command Line Arguments
+- [x] Joining Paths
+- [x] App Wrapup
+
+Code for the above project can be found *[here](https://github.com/lax0248917/list)*
