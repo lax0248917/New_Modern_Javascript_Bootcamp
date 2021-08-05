@@ -503,3 +503,20 @@ Code for the above project can be found *[here](https://github.com/lax0248917/me
 - [x] App Wrapup
 
 Code for the above project can be found *[here](https://github.com/lax0248917/list)*
+
+*** Section 25 Create Your Own Project Runner
+- [x] App Overview
+- [x] Project Setup
+- [x] Big Application Challenges
+- [x] Watching Files with Chokidar
+- [x] Issues with Add Event
+- [x] Debouncing Add Events
+- [x] Naming Require Statements
+- [x] Handling CLI Tools with Caporal
+- [x] Ensuring Files Exist
+- [x] It Works!
+- [x] More on StdIO
+- [x] Optional - More on Child_Process
+- [x] App Wrapup
+
+Code for the above project can be found *[here](https://github.com/lax0248917/watchit)*
