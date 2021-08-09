@@ -520,3 +520,15 @@ Code for the above project can be found *[here](https://github.com/lax0248917/li
 - [x] App Wrapup
 
 Code for the above project can be found *[here](https://github.com/lax0248917/watchit)*
+
+*** Section 26 Project Start - E-Commerce App
+- [x] App Overview
+- [x] App Architecture
+- [x] Package.json Scripts
+- [x] Creating a Web Server
+- [x] Behind the Scenes of Requests
+- [x] Displaying Simple HTML
+- [x] Understanding Form Submissions
+- [x] Parsing Form Data
+- [x] Middlewares in Express
+- [x] Globally Applying Middleware
