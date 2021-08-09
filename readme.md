@@ -532,3 +532,19 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Parsing Form Data
 - [x] Middlewares in Express
 - [x] Globally Applying Middleware
+
+*** Section 27 Design a Custom Database
+- [x] Data Storage
+- [x] Different Data Modeling Approaches
+- [x] Implementing the Users Repository
+- [x] Opening the Repo Data File
+- [x] Small Refactor
+- [x] Saving Records
+- [x] Better JSON Formatting
+- [x] Random ID Generation
+- [x] Finding By ID
+- [x] Deleting Records
+- [x] Updating Records
+- [x] Adding Filter Logic
+- [x] Exporting an Instance
+- [x] Signup Validation Logic
