@@ -548,3 +548,15 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Adding Filter Logic
 - [x] Exporting an Instance
 - [x] Signup Validation Logic
+
+*** Section 28 Production-Grade Authentication
+- [x] Cookie Based Authentication
+- [x] Creating User Records
+- [x] Fetching a Session
+- [x] Signing Out a User
+- [x] Signing In
+- [x] Hashing Passwords
+- [x] Salting Passwords
+- [x] Salthing + Hashing Passwords
+- [x] Comparing Hashed Passwords
+- [x] Testing in Full Flow
