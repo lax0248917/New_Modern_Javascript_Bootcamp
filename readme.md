@@ -560,3 +560,45 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Salthing + Hashing Passwords
 - [x] Comparing Hashed Passwords
 - [x] Testing in Full Flow
+
+*** Section 29 Structuring Javascript Projects
+- [x] Project  Structure
+- [x] Structure Refactor
+- [x] HTML Templating Functions
+- [x] HTML Reuse with Layouts
+- [x] Building a Layout File
+- [x] Adding Better Form Validation
+- [x] Validation vs Sanitization
+- [x] Receiving Validation Output
+- [x] Adding Custom Validators
+- [x] Extracting Validation Chains
+- [x] Displaying Error Messages
+- [x] Validation Around Sign In
+- [x] Password Validation
+- [x] Template Helper Functions
+- [x] Adding Some Styling
+- [x] Exposing Public Directories
+- [x] Next Steps
+- [x] Product Routes
+- [x] The Products Repository
+- [x] Code Reuse with Classes
+- [x] Creating The Products Repository
+- [x] Building the Product Creation Form
+- [x] Some Quick Validation
+
+*** Section 30 Image and File Upload
+- [ ] Exploring Image Upload
+- [ ] Understanding Multi-Part Forms
+- [ ] Accessing the Uploaded File
+- [ ] Optional - Different Methods of Image Storage
+- [ ] Saving the Image
+- [ ] A Subtle Middleware Bug
+- [ ] Better Styling
+- [ ] Reuseable Error Handling Middleware
+- [ ] Products Listing
+- [ ] Redirect on Success Actions
+- [ ] Requiring Authentication
+- [ ] Template Update
+- [ ] Ids in URLs
+- [ ] Receiving URL Params
+- [ ] Displaying an Edit Form
