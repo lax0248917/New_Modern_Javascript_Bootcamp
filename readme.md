@@ -587,18 +587,40 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Some Quick Validation
 
 *** Section 30 Image and File Upload
-- [ ] Exploring Image Upload
-- [ ] Understanding Multi-Part Forms
-- [ ] Accessing the Uploaded File
-- [ ] Optional - Different Methods of Image Storage
-- [ ] Saving the Image
-- [ ] A Subtle Middleware Bug
-- [ ] Better Styling
-- [ ] Reuseable Error Handling Middleware
-- [ ] Products Listing
-- [ ] Redirect on Success Actions
-- [ ] Requiring Authentication
-- [ ] Template Update
-- [ ] Ids in URLs
-- [ ] Receiving URL Params
-- [ ] Displaying an Edit Form
+- [x] Exploring Image Upload
+- [x] Understanding Multi-Part Forms
+- [x] Accessing the Uploaded File
+- [x] Optional - Different Methods of Image Storage
+- [x] Saving the Image
+- [x] A Subtle Middleware Bug
+- [x] Better Styling
+- [x] Reuseable Error Handling Middleware
+- [x] Products Listing
+- [x] Redirect on Success Actions
+- [x] Requiring Authentication
+- [x] Template Update
+- [x] Ids in URLs
+- [x] Receiving URL Params
+- [x] Displaying an Edit Form
+
+*** Section 31 Building a Shopping Cart
+- [ ] Editing a Product
+- [ ] Fixing the HandleErrors Middleware
+- [ ] Edit Form Template
+- [ ] Deleting Products
+- [ ] Starting with Seed Data
+- [ ] User-Facing Products
+- [ ] Products index
+- [ ] Merging More Styling
+- [ ] Understanding a Shopping Cart
+- [ ] Solving Problem #1
+- [ ] Solving Problem #2
+- [ ] Shopping Cart Boilerplate
+- [ ] Submission Options
+- [ ] Creating a Cart, One Way or Another
+- [ ] Adding Items to a Cart
+- [ ] Displaying Cart Items
+- [ ] Rendering the List
+- [ ] Totaling Cart Items
+- [ ] Removing Cart Items
+- [ ] Redirect on Remove
