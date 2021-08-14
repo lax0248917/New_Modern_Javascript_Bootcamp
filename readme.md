@@ -604,23 +604,43 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Displaying an Edit Form
 
 *** Section 31 Building a Shopping Cart
-- [ ] Editing a Product
-- [ ] Fixing the HandleErrors Middleware
-- [ ] Edit Form Template
-- [ ] Deleting Products
-- [ ] Starting with Seed Data
-- [ ] User-Facing Products
-- [ ] Products index
-- [ ] Merging More Styling
-- [ ] Understanding a Shopping Cart
-- [ ] Solving Problem #1
-- [ ] Solving Problem #2
-- [ ] Shopping Cart Boilerplate
-- [ ] Submission Options
-- [ ] Creating a Cart, One Way or Another
-- [ ] Adding Items to a Cart
-- [ ] Displaying Cart Items
-- [ ] Rendering the List
-- [ ] Totaling Cart Items
-- [ ] Removing Cart Items
-- [ ] Redirect on Remove
+- [x] Editing a Product
+- [x] Fixing the HandleErrors Middleware
+- [x] Edit Form Template
+- [x] Deleting Products
+- [x] Starting with Seed Data
+- [x] User-Facing Products
+- [x] Products index
+- [x] Merging More Styling
+- [x] Understanding a Shopping Cart
+- [x] Solving Problem #1
+- [x] Solving Problem #2
+- [x] Shopping Cart Boilerplate
+- [x] Submission Options
+- [x] Creating a Cart, One Way or Another
+- [x] Adding Items to a Cart
+- [x] Displaying Cart Items
+- [x] Rendering the List
+- [x] Totaling Cart Items
+- [x] Removing Cart Items
+- [x] Redirect on Remove
+
+*** Section 32 The Basics of Testing
+- [ ] Testing Overview
+- [ ] A Simple Function to Test
+- [ ] A No-Frills Testing Implementation
+- [ ] Test Driven Development
+- [ ] Fixing Three Issues
+- [ ] The Assert Module
+- [ ] Using Mocha
+- [ ] App Setup
+- [ ] Reminder on This App
+- [ ] Why is Test Setup Difficult
+- [ ] Mocha in the Browser
+- [ ] Displaying the Autocomplete
+- [ ] Verifying the Dropdown State
+- [ ] Writing Assertions
+- [ ] Fake DOM Events
+- [ ] Holding Up Assertions
+- [ ] Implementiing WaitFor
+- [ ] Asserting Records Fetched
