@@ -626,21 +626,46 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Redirect on Remove
 
 *** Section 32 The Basics of Testing
-- [ ] Testing Overview
-- [ ] A Simple Function to Test
-- [ ] A No-Frills Testing Implementation
-- [ ] Test Driven Development
-- [ ] Fixing Three Issues
-- [ ] The Assert Module
-- [ ] Using Mocha
-- [ ] App Setup
-- [ ] Reminder on This App
-- [ ] Why is Test Setup Difficult
-- [ ] Mocha in the Browser
-- [ ] Displaying the Autocomplete
-- [ ] Verifying the Dropdown State
-- [ ] Writing Assertions
-- [ ] Fake DOM Events
-- [ ] Holding Up Assertions
-- [ ] Implementiing WaitFor
-- [ ] Asserting Records Fetched
+- [x] Testing Overview
+- [x] A Simple Function to Test
+- [x] A No-Frills Testing Implementation
+- [x] Test Driven Development
+- [x] Fixing Three Issues
+- [x] The Assert Module
+- [x] Using Mocha
+- [x] App Setup
+- [x] Reminder on This App
+- [x] Why is Test Setup Difficult
+- [x] Mocha in the Browser
+- [x] Displaying the Autocomplete
+- [x] Verifying the Dropdown State
+- [x] Writing Assertions
+- [x] Fake DOM Events
+- [x] Holding Up Assertions
+- [x] Implementiing WaitFor
+- [x] Asserting Records Fetched
+
+*** Section 33 Building a Testing Framework From Scratch
+- [ ] Test Framework Requirements
+- [ ] Project Setup
+- [ ] Implementation Steps
+- [ ] Walking a Directory Structure
+- [ ] Implementing Breadth First Search
+- [ ] Collecting Test Files
+- [ ] Running Test Files
+- [ ] A Quick Test Harness
+- [ ] Implementing 'beforeEach' and 'it'
+- [ ] Adding Basic Reporting
+- [ ] Adding Colores
+- [ ] Better Formatting
+- [ ] Ignoring Directories
+- [ ] Running Browser-Based JS
+- [ ] A Sample Web App
+- [ ] Why JSDOM?
+- [ ] Building a Render Function
+- [ ] HTML Element Assertions
+- [ ] An Incorrectly Passing Test
+- [ ] Another Small Issue
+- [ ] Script Execution Delay
+- [ ] Implementing a Delay
+- [ ] Fixing a Test
