@@ -625,6 +625,8 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Removing Cart Items
 - [x] Redirect on Remove
 
+Code for the above project can be found *[here](https://github.com/lax0248917/ecomm)*
+
 *** Section 32 The Basics of Testing
 - [x] Testing Overview
 - [x] A Simple Function to Test
@@ -646,26 +648,28 @@ Code for the above project can be found *[here](https://github.com/lax0248917/wa
 - [x] Asserting Records Fetched
 
 *** Section 33 Building a Testing Framework From Scratch
-- [ ] Test Framework Requirements
-- [ ] Project Setup
-- [ ] Implementation Steps
-- [ ] Walking a Directory Structure
-- [ ] Implementing Breadth First Search
-- [ ] Collecting Test Files
-- [ ] Running Test Files
-- [ ] A Quick Test Harness
-- [ ] Implementing 'beforeEach' and 'it'
-- [ ] Adding Basic Reporting
-- [ ] Adding Colores
-- [ ] Better Formatting
-- [ ] Ignoring Directories
-- [ ] Running Browser-Based JS
-- [ ] A Sample Web App
-- [ ] Why JSDOM?
-- [ ] Building a Render Function
-- [ ] HTML Element Assertions
-- [ ] An Incorrectly Passing Test
-- [ ] Another Small Issue
-- [ ] Script Execution Delay
-- [ ] Implementing a Delay
-- [ ] Fixing a Test
+- [x] Test Framework Requirements
+- [x] Project Setup
+- [x] Implementation Steps
+- [x] Walking a Directory Structure
+- [x] Implementing Breadth First Search
+- [x] Collecting Test Files
+- [x] Running Test Files
+- [x] A Quick Test Harness
+- [x] Implementing 'beforeEach' and 'it'
+- [x] Adding Basic Reporting
+- [x] Adding Colores
+- [x] Better Formatting
+- [x] Ignoring Directories
+- [x] Running Browser-Based JS
+- [x] A Sample Web App
+- [x] Why JSDOM?
+- [x] Building a Render Function
+- [x] HTML Element Assertions
+- [x] An Incorrectly Passing Test
+- [x] Another Small Issue
+- [x] Script Execution Delay
+- [x] Implementing a Delay
+- [x] Fixing a Test
+
+Code for the above project can be found *[here](https://github.com/lax0248917/tme)*
